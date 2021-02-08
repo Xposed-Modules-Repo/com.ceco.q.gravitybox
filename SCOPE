@@ -1,1 +1,1 @@
-["android", "com.android.systemui", "com.google.android.dialer", "com.android.dialer", "com.android.providers.downloads", "com.android.server.telecom"]
+["android", "com.android.systemui", "com.android.server.telecom", "com.android.providers.downloads", "com.android.dialer", "com.google.android.dialer", "com.android.phone", "com.android.incallui", "com.google.android.inputmethod.latin"]
